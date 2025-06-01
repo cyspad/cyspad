@@ -1,5 +1,5 @@
 ### Amir Hossein (cyspad)
-### <p><em>| Penteration Tester | Bug Hunter | Red Team Operator | Web Application Develeper |</em>
+### <p><em>Offensive Security Researcher </em>
 
 - Contact Me: amirspad@protonmail.com
 - ![](https://visitor-badge.glitch.me/badge?page_id=cyspad)  
